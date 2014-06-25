@@ -1,0 +1,13 @@
+{
+    "name": "ingewikkeld/rest-resource-bundle",
+    "description": "A bundle for REST resource handling",
+    "authors": [
+        {
+            "name": "Stefan Koopmanschap",
+            "email": "stefan@ingewikkeld.net"
+        }
+    ],
+    "require": {
+
+    }
+}
