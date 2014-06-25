@@ -11,5 +11,8 @@
     "version": "0.1",
     "require": {
         "friendsofsymfony/rest-bundle":         "dev-master"
+    },
+    "require-dev": {
+        "mockery/mockery": "dev-master@dev"
     }
 }
