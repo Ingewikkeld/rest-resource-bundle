@@ -7,7 +7,9 @@
             "email": "stefan@ingewikkeld.net"
         }
     ],
+    "license": "MIT",
+    "version": "0.1",
     "require": {
-
+        "friendsofsymfony/rest-bundle":         "dev-master"
     }
 }
