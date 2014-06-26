@@ -7,6 +7,9 @@
             "email": "stefan@ingewikkeld.net"
         }
     ],
+    "autoload": {
+            "psr-0": { "": "src/" }
+    },
     "license": "MIT",
     "version": "0.1",
     "require": {
