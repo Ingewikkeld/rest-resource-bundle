@@ -11,7 +11,6 @@ namespace Ingewikkeld\Rest\ResourceBundle\Resource\Mapper;
 
 use Hal\Resource as HalResource;
 use Hal\Resource;
-use Symfony\Component\Form\FormInterface;
 
 interface UrlGeneratorInterface
 {
