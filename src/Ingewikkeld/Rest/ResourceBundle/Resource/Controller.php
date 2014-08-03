@@ -146,9 +146,9 @@ class Controller
     {
         switch ($format) {
             case 'xml':
-                return (string)$resource->getXML()->asXml();
+                return (string) $resource->getXML()->asXml();
             case 'json':
-                return (string)$resource;
+                return (string) $resource;
             default:
                 throw new NotAcceptableHttpException();
         }

@@ -10,7 +10,6 @@
 namespace Ingewikkeld\Rest\ResourceBundle\Resource\Mapper;
 
 use Hal\Resource as HalResource;
-use Symfony\Component\Form\FormInterface;
 
 interface FetcherInterface
 {
